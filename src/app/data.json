@@ -1,0 +1,5 @@
+{
+  "role": "customer",
+  "pages": ["login","home","about"],
+  "restriction":""
+}
